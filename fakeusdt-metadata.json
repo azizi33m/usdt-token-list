@@ -1,0 +1,8 @@
+{
+  "name": "tether",
+  "symbol": "USDT",
+  "decimals": 6,
+  "address": "0x0439F02056CB6acB0C809015a14797006ee2A614",
+  "chainId": 1,
+  "logoURI": "https://ipfs.io/ipfs/bafkreigikzsv4nxqaieqo3pf3h2cnyhfdhvq5uhp6rdpzz3o6ykly76aty"
+}
